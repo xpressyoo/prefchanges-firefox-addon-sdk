@@ -10,8 +10,8 @@ self.port.on("prefchange", function(data) {
 
   	var option1 	= prefs[0];
   	var option2 	= prefs[1];
-  	var option 		= data[0];
-  	var value 		= data[1];
+  	var option 	= data[0];
+  	var value 	= data[1];
  	
  	var css;
  	
