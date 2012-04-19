@@ -1,0 +1,21 @@
+{
+    "name": "prefchanges",
+    "license": "MPL 2.0",
+    "author": "",
+    "version": "0.1",
+    "fullName": "Preferences Add-on SDK",
+    "id": "ksw1-UrtNjAClSpauxQ",
+    "description": "Use of the simple-prefs API with the Mozilla Add-on SDK.",
+    "preferences": [{
+	    "type": "bool",
+	    "name": "option1",
+	    "value": true,
+	    "title": "Description Option1"
+	},
+	    {
+	    "type": "bool",
+	    "name": "option2",
+	    "value": true,
+	    "title": "Description Option2"
+	 }]
+}
